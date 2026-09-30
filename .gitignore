@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables & secrets
+.env
+.env.*
+
+# IDE & Editor files
+.vscode/
+.idea/
+
+# Streamlit temporary / config files
+.streamlit/secrets.toml
+
+# Pytest / Cache
+.pytest_cache/
